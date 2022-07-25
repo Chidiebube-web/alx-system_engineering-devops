@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#This stops an infinite loop wuthout tyhe use of kill
+
+pkill -f 4-to_infinity_and_beyond
