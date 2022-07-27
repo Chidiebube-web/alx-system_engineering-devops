@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
 
-[S][c][h][o][o][l]
+puts ARGV[0].scan(/School/).join
